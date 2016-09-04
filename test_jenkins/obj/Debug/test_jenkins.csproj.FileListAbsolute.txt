@@ -1,0 +1,1 @@
+c:\users\administrator\documents\visual studio 2015\Projects\test_jenkins\test_jenkins\bin\Debug\test_jenkins.exe.config
